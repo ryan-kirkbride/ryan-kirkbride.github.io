@@ -24,15 +24,15 @@ Description
 
 ## Publications
 
-Kirkbride, Ryan, and Kia Ng. "Infinite remix machine: automatic analysis and arrangement of musical recordings." Proceedings of the Conference on Electronic Visualisation and the Arts. British Computer Society, 2015.
+Kirkbride, Ryan, and Kia Ng. "Infinite remix machine: automatic analysis and arrangement of musical recordings." *Proceedings of the Conference on Electronic Visualisation and the Arts. British Computer Society*, 2015.
 
-Kirkbride, Ryan. “FoxDot Live Coding with Python and SuperCollider”. Proceedings of the International Conference on Live Interfaces, 2016.
+Kirkbride, Ryan. “FoxDot Live Coding with Python and SuperCollider”. *Proceedings of the International Conference on Live Interfaces*, 2016.
 
-Kirkbride, Ryan. “Programming in Time: New Implications for Temporality”. Proceedings of the International Conference on Live Coding, 2016.
+Kirkbride, Ryan. “Programming in Time: New Implications for Temporality”. *Proceedings of the International Conference on Live Coding*, 2016.
 
-Kirkbride, Ryan. "Cooperative Live Coding of Electronic Music with Troop." Proceedings of 15th European Conference on Computer-Supported Cooperative Work - Panels, Posters and Demos. European Society for Socially Embedded Technologies (EUSSET), 2017.
+Kirkbride, Ryan. "Cooperative Live Coding of Electronic Music with Troop." *Proceedings of 15th European Conference on Computer-Supported Cooperative Work - Panels, Posters and Demos. European Society for Socially Embedded Technologies (EUSSET)*, 2017.
 
-Kirkbride, Ryan. "Troop: A Collaborative Tool for Live Coding." Proceedings of the 14th Sound and Music Computing Conference. 2017.
+Kirkbride, Ryan. "Troop: A Collaborative Tool for Live Coding." *Proceedings of the 14th Sound and Music Computing Conference*. 2017.
 
 ## Conference Presentations
 
