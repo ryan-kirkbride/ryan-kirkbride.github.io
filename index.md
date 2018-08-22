@@ -1,12 +1,31 @@
 ## Projects
 
-- FoxDot
-- Troop
-- CodeBank
+### FoxDot
+
+Description
+
+### Troop
+
+Description
+
+### CodeBank
+
+Description
 
 ## Conference presentations
 
-- A list
+International Conference on Live Coding (2016)
+Programming in Time: New Implications for Temporality in Live Coding
+McMaster University, Toronto, Canada
+
+PyCon UK (2017)
+Programming Music for Performance: Live Coding with FoxDot
+Cardiff City Hall, UK
+
+Together in Music (2018)
+Together in Cyberspace: Collaborative Live Coding of Music
+National Centre for Early Music, York, UK
+
 
 ## Musical performances
 
