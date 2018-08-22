@@ -1,6 +1,6 @@
 # Welcome
 
-This is a personal webpage that contains a portfolio of my work, which includes software, presentations and papers, and musical performances and compositions. A full list of my software repositories can be found in [my other GitHub account](http://github.com/qirky/). If you would like to contact me, please send an email to ryan[at]foxdot[dot]org.
+This is a personal webpage that contains a portfolio of my work, which includes software, presentations and papers, as well as musical performances and compositions. For a full list of my software repositories, please see [my dedicated software development GitHub account](http://github.com/qirky/). If you would like to contact me, please send an email to ryan[at]foxdot[dot]org.
 
 ## Software
 
@@ -36,8 +36,8 @@ Kirkbride, Ryan. "Troop: A Collaborative Tool for Live Coding." Proceedings of t
 
 ## Conference Presentations
 
-**Making Time in Music** (2016)
-Co-ordination of Expression in Vocal Ensembles
+**Making Time in Music** (2016)  
+Co-ordination of Expression in Vocal Ensembles  
 University of Oxford, UK
 
 **International Conference on Live Coding** (2016)  
@@ -48,8 +48,8 @@ McMaster University, Toronto, Canada
 Programming Music for Performance: Live Coding with FoxDot  
 Cardiff City Hall, UK
 
-**Electroacoustic Music Studies Network** (2017)
-Troop: A Collaborative Environment for Live Coding Electronic Music
+**Electroacoustic Music Studies Network** (2017)  
+Troop: A Collaborative Environment for Live Coding Electronic Music  
 Nagoya University, Japan
 
 **PyCon SK** (2018)  
@@ -70,4 +70,4 @@ I perform as solo act under the moniker of [Qirky](http://qirky.github.io/), cre
 
 ## Contact
 
-ryan [at] foxdot [dot] org
+ryan[at]foxdot[dot]org
