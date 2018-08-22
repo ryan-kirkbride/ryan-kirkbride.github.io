@@ -1,6 +1,8 @@
 # Welcome
 
-This is a personal webpage that contains a portfolio of my work, which includes software, presentations and papers, as well as musical performances and compositions. For a full list of my software repositories, please see [my dedicated software development GitHub account](http://github.com/qirky/). If you would like to contact me, please send an email to ryan[at]foxdot[dot]org.
+This is a personal webpage that contains a portfolio of my work, which includes software, presentations and papers, as well as musical performances and compositions. If you would like to contact me, please send an email to ryan[at]foxdot[dot]org.
+
+For a full list of my software repositories, see [my dedicated software development GitHub account](http://github.com/qirky/).
 
 ## Software
 
@@ -8,19 +10,19 @@ This is a personal webpage that contains a portfolio of my work, which includes 
 
 Description
 
-[Project website](http://www.foxdot.org/)
+[Project website](https://www.foxdot.org/)
 
-### Software
+### Troop
 
 Description
 
-[Project website](http://www.github.com/qirky/Troop)
+[Project website](https://www.github.com/qirky/Troop)
 
 ### CodeBank
 
 Description
 
-[Project website](http://www.github.com/qirky/CodeBank)
+[Project website](https://www.github.com/qirky/CodeBank)
 
 ## Publications
 
