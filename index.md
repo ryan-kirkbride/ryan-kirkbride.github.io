@@ -1,3 +1,7 @@
+# Welcome
+
+This is a personal webpage that contains a portfolio of my work, which includes software, presentations and papers, and musical performances and compositions. A full list of my software repositories can be found in [my other GitHub account](http://github.com/qirky/). If you would like to contact me, please send an email to ryan[at]foxdot[dot]org.
+
 ## Projects
 
 ### FoxDot
@@ -6,7 +10,7 @@ Description
 
 [Project website](http://www.foxdot.org/)
 
-### Troop
+### Software
 
 Description
 
@@ -32,7 +36,7 @@ Cardiff City Hall, UK
 Together in Cyberspace: Collaborative Live Coding of Music  
 National Centre for Early Music, York, UK
 
-## Musical performances
+## Music
 
 I perform as solo act under the moniker of [Qirky](http://qirky.github.io/), creating a blend of melodic techno, deep house, and electro-pop using FoxDot. I also perform in a experimental/electronic group of live coders called The Yorkshire Programming Ensemble ([TYPE](https://typeensemble.wordpress.com/)) using Troop to collaborate with code in FoxDot.
 
