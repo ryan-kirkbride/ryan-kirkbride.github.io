@@ -8,19 +8,19 @@ For a full list of my software repositories, see [my dedicated software developm
 
 ### FoxDot
 
-Description
+FoxDot is a Python library for [live coding](https://en.wikipedia.org/wiki/Live_coding) music with a focus on object-oriented programming practices. It uses the [SuperCollider](https://supercollider.github.io/) audio engine to generate sound by sending messages via Open Sound Control (OSC). Users take control of "Players" and allocate instructions, such as pitch and duration, and can change these instructions algorithmically in time. What started as a personal experiment has now become a tool used by live coders from all over the world. 
 
 [Project website](https://www.foxdot.org/)
 
 ### Troop
 
-Description
+During my PhD studies I have been researching methods for collaboration in live coding music and it has led me to develop several GUIs for joint working across a network. The first interface I developed was Troop; a real-time concurrent multi-user editor for live coding, similar in style to Google Docs. Multiple users can  connect to a Troop server and start  working on the same body of code using a variety of different live  coding environments including [FoxDot](https://www.foxdot.org/), [TidalCycles](http://tidalcycles.org), [SuperCollider](https://supercollider.github.io/), and [Sonic-Pi](https://sonic-pi.net/).
 
 [Project website](https://www.github.com/qirky/Troop)
 
 ### CodeBank
 
-Description
+This collaborative live coding interface (still in development) gives users a local workspace to experiment in before 'pushing' their code to a server that is generating audio for an audience. It is part of ongoing research into public and private working in digital music creation in the context of live coding.
 
 [Project website](https://www.github.com/qirky/CodeBank)
 
@@ -68,7 +68,13 @@ Meet Factory, Prague, Czech Republic
 
 ## Music
 
-I perform as solo act under the moniker of [Qirky](http://qirky.github.io/), creating a blend of melodic techno, deep house, and electro-pop using FoxDot. I also perform in a experimental/electronic group of live coders called The Yorkshire Programming Ensemble ([TYPE](https://typeensemble.wordpress.com/)) using Troop to collaborate with code in FoxDot.
+I perform music as solo act under the moniker of Qirky, creating a blend of melodic techno, deep house, and electro-pop using FoxDot. I have performed at several [Algorave] events across the UK, including Green Man and Shambala festivals, and also at international events.
+
+[Webpage for Qirky](http://qirky.github.io/)
+
+I also perform with an experimental/electronic group of live coders called The Yorkshire Programming Ensemble (TYPE) using Troop to collaborate with code in FoxDot. 
+
+[Webpage for TYPE](https://typeensemble.wordpress.com/)
 
 ## Contact
 
