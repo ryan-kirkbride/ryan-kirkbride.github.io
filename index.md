@@ -70,6 +70,8 @@ Meet Factory, Prague, Czech Republic
 
 I perform music as solo act under the moniker of Qirky, creating a blend of melodic techno, deep house, and electro-pop using FoxDot. I have performed at several [Algorave](http://algorave.com) events across the UK, including Green Man and Shambala festivals, and also at international events.
 
+![Qirky](AlgoraveSheffield_9.jpg)
+
 [Webpage for Qirky](http://qirky.github.io/)
 
 I also perform with an experimental/electronic group of live coders called The Yorkshire Programming Ensemble (TYPE) using Troop to collaborate with code in FoxDot. 
