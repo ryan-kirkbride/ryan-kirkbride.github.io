@@ -68,7 +68,7 @@ Meet Factory, Prague, Czech Republic
 
 ## Music
 
-I perform music as solo act under the moniker of Qirky, creating a blend of melodic techno, deep house, and electro-pop using FoxDot. I have performed at several [Algorave] events across the UK, including Green Man and Shambala festivals, and also at international events.
+I perform music as solo act under the moniker of Qirky, creating a blend of melodic techno, deep house, and electro-pop using FoxDot. I have performed at several [Algorave](http://algorave.com) events across the UK, including Green Man and Shambala festivals, and also at international events.
 
 [Webpage for Qirky](http://qirky.github.io/)
 
